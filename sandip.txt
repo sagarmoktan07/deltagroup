@@ -1,0 +1,2 @@
+This is a document created by using command prompt 
+this .txt file is going to be push in the delta group
